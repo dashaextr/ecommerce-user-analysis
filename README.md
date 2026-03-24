@@ -1,7 +1,7 @@
 # E-commerce User Behaviour & Retention Analysis
 
 ## Overview
-This project analyses user behaviour and transaction data to understand conversion, retention, and revenue trends.
+This project analyses user behaviour and transaction data to understand conversion, retention, and revenue trends in an e-commerce product.
 
 ## Key Questions
 - Which countries generate the most user registrations?
@@ -25,3 +25,9 @@ This project analyses user behaviour and transaction data to understand conversi
 - Investigate retention drop after Day 1
 - Analyse failed transactions and payment issues
 - Increase order volume to stabilise revenue
+
+## Skills Demonstrated
+- SQL (CTE, aggregation, window functions)
+- Cohort analysis and retention calculation
+- Business insight generation
+- Data interpretation
